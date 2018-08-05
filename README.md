@@ -1,4 +1,7 @@
 # Demo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/f0rr0/react-es6-seed.svg)](https://greenkeeper.io/)
+
 Seed for react and webpack.
 [recent.surge.sh](https://recent.surge.sh)
 
